@@ -28,6 +28,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 - [Alchemy](https://www.alchemy.com/) [B2C, [@AlchemyPlatform](https://twitter.com/AlchemyPlatform), [LinkedIn](https://www.linkedin.com/company/alchemyinc/), [Careers](https://jobs.lever.co/alchemy)] - The leading web3 dev platform powering millions of users.
 - [Avalanche](https://www.avax.network/) [B2C, [@avalancheavax](https://twitter.com/avalancheavax)] - Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality
+- [Blockchain](https://www.blockchain.com/) [B2C, [@blockchain](https://twitter.com/blockchain), [LinkedIn](https://www.linkedin.com/company/blockchain/), [Careers](https://www.blockchain.com/careers)] - Buy, sell, swap, hold, earn, and trade crypto.
 - [BlockFi](https://blockfi.com/) [B2C, [@blockfi](https://twitter.com/blockfi), [LinkedIn](https://www.linkedin.com/company/blockfi/), [Careers](https://boards.greenhouse.io/blockfi)] - Buy, sell, and earn crypto.
 - [Bottlepay](https://bottlepay.com/) [B2C, [@bottlepay](https://twitter.com/bottlepay), [LinkedIn](https://www.linkedin.com/company/bottlepay/), [Careers](https://bottlepay.com/jobs)] - Powered by the Lightning Network, we're on a mission to revolutionise the way people transact across the world
 - [Coinbase](https://www.coinbase.com/) [B2C, [@coinbase](https://twitter.com/coinbase), [LinkedIn](https://www.linkedin.com/company/coinbase/), [Careers](https://www.coinbase.com/careers/positions)] - Crypto exchange
