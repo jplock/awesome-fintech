@@ -11,13 +11,13 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Mercury](https://mercury.com/) [B2B, [@BankMercury](https://twitter.com/BankMercury), [LinkedIn](https://www.linkedin.com/company/mercuryhq/), [Careers](https://mercury.com/jobs)] - Banking stack for startups
 - [Plaid](https://plaid.com) [B2B, [@Plaid](https://twitter.com/Plaid), [LinkedIn](https://www.linkedin.com/company/plaid-/), [Careers](https://plaid.com/careers/)] - The safer way for people to connect financial accounts to an app
 - [Synapse](https://synapsefi.com/) [B2B, [@synapsefi](https://twitter.com/synapsefi), [LinkedIn](https://www.linkedin.com/company/synapsepay/), [Careers](https://synapsefi.com/careers)] - The Launchpad for Financial Innovation
-- [Twisp](https://www.twisp.com/) [B2B, [@twispdb](https://twitter.com/twispdb)], [LinkedIn](https://www.linkedin.com/company/twispdb/)] - Twisp’s cloud-based financial data infrastructure helps engineering teams confidently build, compose, and scale core ledgers.
+- [Twisp](https://www.twisp.com/) [B2B, [@twispdb](https://twitter.com/twispdb), [LinkedIn](https://www.linkedin.com/company/twispdb/)] - Twisp’s cloud-based financial data infrastructure helps engineering teams confidently build, compose, and scale core ledgers.
 
 ## Capital Markets
 
 - [Alpaca](https://alpaca.markets/) [B2B, [@alpacahq](https://twitter.com/alpacahq), [LinkedIn](https://www.linkedin.com/company/alpacadb-inc-/), [Careers](https://alpaca.markets/hiring#alpaca-hiring)] - $0 commission API stock & crypto brokerage
 - [Apex Clearing](https://www.apexclearing.com/) [B2B, [@apexfintech](https://twitter.com/apexfintech), [LinkedIn](https://www.linkedin.com/company/apex-fintech/), [Careers](https://careers.peak6.com/all-openings#/)] - Clearing & custody APIs
-- [Cadre](https://cadre.com/) [B2C, [@cadrere](https://twitter.com/cadrere)], [LinkedIn](https://www.linkedin.com/company/cadrere/), [Careers](https://boards.greenhouse.io/cadre) - Providing superior access and insight to the universe of alternative investments.
+- [Cadre](https://cadre.com/) [B2C, [@cadrere](https://twitter.com/cadrere), [LinkedIn](https://www.linkedin.com/company/cadrere/), [Careers](https://boards.greenhouse.io/cadre) - Providing superior access and insight to the universe of alternative investments.
 - [CalcGuard Technologies](https://www.calcguard.com/) [B2B, [@CalcGuard](https://twitter.com/CalcGuard), [LinkedIn](https://www.linkedin.com/company/calcguard-technologies/)] - An unconflicted data & calcuation platform
 - [Public.com](https://public.com/) [B2C, [@public](https://twitter.com/public), [LinkedIn](https://www.linkedin.com/company/publichello/), [Careers](https://public.com/careers)] - Invest in stocks, ETFs, and crypto.
 - [Strikes](https://www.trystrikes.com/) [B2C, [@StrikesApp](https://twitter.com/StrikesApp), [LinkedIn](https://www.linkedin.com/company/strikesapp/)] - Make well-informed options trading decisions & avoid mistakes
