@@ -10,6 +10,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Kasasa](https://www.kasasa.com) [B2B, [@Kasasa](https://twitter.com/Kasasa), [LinkedIn](https://www.linkedin.com/company/kasasa/), [Careers](https://www.kasasa.com/careers)] - A bank account you can brag about.
 - [Mercury](https://mercury.com/) [B2B, [@BankMercury](https://twitter.com/BankMercury), [LinkedIn](https://www.linkedin.com/company/mercuryhq/), [Careers](https://mercury.com/jobs)] - Banking stack for startups
 - [Plaid](https://plaid.com) [B2B, [@Plaid](https://twitter.com/Plaid), [LinkedIn](https://www.linkedin.com/company/plaid-/), [Careers](https://plaid.com/careers/)] - The safer way for people to connect financial accounts to an app
+- [Step](https://www.step.com/) [B2C, [@step](https://twitter.com/step), [LinkedIn](https://www.linkedin.com/company/stepmobile/), [Careers](https://www.step.com/careers)] - 🙌 How Gen Z Does Money
 - [Synapse](https://synapsefi.com/) [B2B, [@synapsefi](https://twitter.com/synapsefi), [LinkedIn](https://www.linkedin.com/company/synapsepay/), [Careers](https://synapsefi.com/careers)] - The Launchpad for Financial Innovation
 - [Twisp](https://www.twisp.com/) [B2B, [@twispdb](https://twitter.com/twispdb), [LinkedIn](https://www.linkedin.com/company/twispdb/)] - Twisp’s cloud-based financial data infrastructure helps engineering teams confidently build, compose, and scale core ledgers.
 
@@ -41,6 +42,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Paxos](https://paxos.com/) [B2B, [@PaxosGlobal](https://twitter.com/PaxosGlobal), [LinkedIn](https://www.linkedin.com/company/paxos/), [Careers](https://paxos.com/careers/)] - Paxos is a regulated blockchain infrastructure company building transparent and transformative financial solutions.
 - [Pocket](https://www.pokt.network/) [B2C, [@POKTnetwork](https://twitter.com/POKTnetwork), [LinkedIn](https://www.linkedin.com/company/pocket-network/), [Careers](https://angel.co/company/pocket-network/jobs)] - Decentralized RPC protocol for ANY blockchain.
 - [Polygon](https://polygon.technology/) [B2C, [@0xPolygon](https://twitter.com/0xPolygon), [LinkedIn](https://www.linkedin.com/company/0xpolygon/), [Careers](https://polygon.technology/careers)] - Polygon believes in web3 for all & offers secure, fast, affordable & energy-efficient Ethereum scaling solutions for Web 3 devs
+- [Strike](https://strike.me/) [B2C, [@strike](https://twitter.com/strike), [LinkedIn](https://www.linkedin.com/company/joinstrike/), [Careers](https://strike.me/en/jobs)] - building a more connected financial world
 - [Worldcoin](https://worldcoin.org/) [B2C, [@worldcoin](https://twitter.com/worldcoin), [LinkedIn](https://www.linkedin.com/company/worldcoinfoundation/), [Careers](https://worldcoin.org/careers)] - Accelerating the transition towards a more inclusive and prosperous global economy.
 
 ## Insurance
@@ -91,6 +93,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 - [digit](https://digit.co/) [B2C, [@hellodigit](https://twitter.com/hellodigit), [LinkedIn](https://www.linkedin.com/company/digit-co/), [Careers](https://digit.co/careers)] - Healthy money, happy mind. Digit helps you do smart things with your money every day. Bank, budget, save and invest, effortlessly.
 - [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
+- [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
 - [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
 
 ## Business Financial Management
