@@ -59,6 +59,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 ## Lending & Credit
 
 - [Affirm](https://www.affirm.com/) [B2B, [@Affirm](https://twitter.com/Affirm), [LinkedIn](https://www.linkedin.com/company/affirm/), [Careers](https://www.affirm.com/careers#openings)] - Honest financial products that improve lives.
+- [Figure](https://www.figure.com/) [B2C, [@figure](https://twitter.com/figure), [LinkedIn](https://www.linkedin.com/company/figuretechnologies/), [Careers](https://www.figure.com/careers)] - Transforming the financial services industry using blockchain - bringing speed, efficiency, and savings to both consumers and institutions.
 - [Flyhomes](https://www.flyhomes.com/) [B2C, [@RealFlyhomes](https://twitter.com/RealFlyHomes), [LinkedIn](https://www.linkedin.com/company/flyhomes/), [Careers](https://www.flyhomes.com/careers)] - We're a real estate company that reduces the stress of homebuying.
 - [Greenlight](https://greenlight.com/) [B2C, [@GreenlightCard](https://twitter.com/GreenlightCard), [LinkedIn](https://www.linkedin.com/company/greenlightcard/), [Careers](https://greenlight.com/careers/#careersDropdown)] - We’re the money app for families.
 - [Jetty](https://www.jetty.com/) [B2C, [@jetty](https://twitter.com/jetty), [LinkedIn](https://www.linkedin.com/company/jetty./), [Careers](https://www.jetty.com/careers#open-roles)] - Jetty is the financial services platform on a mission to make renting a home more affordable and flexible.
