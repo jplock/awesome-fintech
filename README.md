@@ -97,7 +97,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 - [Betterment](https://www.betterment.com/) [B2C, [@Betterment](https://twitter.com/Betterment), [LinkedIn](https://www.linkedin.com/company/betterment/), [Careers](https://www.betterment.com/careers/current-openings)] - Grow your money with easy automated investing and goal-based saving.
 - [GetFierce](https://www.getfierce.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/getfierce/about/)] - Unlock what is possible with Fierce by your side.
-- [Vanilla](https://www.justvanilla.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
+- [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
 
 ## Personal Financial Management
 
