@@ -4,6 +4,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Banking
 
+- [Column](https://column.com/) [B2B, [@columnbank](https://twitter.com/columnbank), [LinkedIn](https://www.linkedin.com/company/column-bank/), [Careers](https://column.com/careers)] - A Nationally Chartered bank for developers. Writing code since '19, powering companies since '22.
 - [Cross River](https://crossriver.com/) [B2B, [@crossriverbank](https://twitter.com/crossriverbank), [LinkedIn](https://www.linkedin.com/company/cross-river-bank/), [Careers](https://crossriver.com/careers)] - Powering the future of financial services. We deliver innovative embedded payments, cards, lending and crypto solutions to millions of consumers and businesses.
 - [Evolve Bank & Trust](https://www.getevolved.com/) [B2B, [@getevolved1925](https://twitter.com/getevolved1925), [LinkedIn](https://www.linkedin.com/company/evolve-bank-&-trust/), [Careers](https://recruiting2.ultipro.com/EVO1002EVBT/JobBoard/5aea2b6d-bf7e-4cfc-8295-2498ec46f8b9/)] - Best-in-class, technology-focused financial services organization.
 - [Fragment](https://fragment.dev/) [B2B, [@fragmentdev](https://twitter.com/fragmentdev), [LinkedIn](https://www.linkedin.com/company/fragmentdev/), [Careers](https://jobs.ashbyhq.com/fragment)] - Build a bulletproof fintech startup without hassling with accounting, ops, or infrastructure.
@@ -109,6 +110,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 ## Business Financial Management
 
 - [Brex](https://www.brex.com/) [B2B, [@brexHQ](https://twitter.com/brexHQ), [LinkedIn](https://www.linkedin.com/company/brexhq/), [Careers](https://www.brex.com/careers/)] - We’re reimagining financial systems so every growing company can realize their full potential.
+- [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
 - [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
 
 # License
