@@ -29,7 +29,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Digital Assets & Blockchain
 
-- [Alchemy](https://www.alchemy.com/) [B2C, [@AlchemyPlatform](https://twitter.com/AlchemyPlatform), [LinkedIn](https://www.linkedin.com/company/alchemyinc/), [Careers](https://jobs.lever.co/alchemy)] - The leading web3 dev platform powering millions of users.
+- [Alchemy](https://www.alchemy.com/) [B2C, [@AlchemyPlatform](https://twitter.com/AlchemyPlatform), [LinkedIn](https://www.linkedin.com/company/alchemyinc/), [Careers](https://boards.greenhouse.io/alchemy)] - The leading web3 dev platform powering millions of users.
 - [Algorand](https://www.algorand.com/) [B2C, [@Algorand](https://twitter.com/Algorand), [LinkedIn](https://www.linkedin.com/company/algorand/), [Careers](https://www.algorand.com/about/careers/our-jobs)] - Algorand is unleashing scalability, fusing TradFi x DeFi, and accelerating global sustainability.
 - [Avalanche](https://www.avax.network/) [B2C, [@avalancheavax](https://twitter.com/avalancheavax)] - Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality
 - [Binance](https://www.binance.com) [B2C [@binance](https://twitter.com/binance), [LinkedIn](https://www.linkedin.com/company/binance/), [Careers](https://www.binance.com/en/careers/job-openings?team=All)] - The world’s leading blockchain ecosystem and digital asset exchange.
