@@ -27,6 +27,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Teller](https://teller.io/) [B2B, [@tellerapi](https://twitter.com/tellerapi), [LinkedIn](https://www.linkedin.com/company/teller-inc/), [Careers](https://jobs.lever.co/teller)] - Banking APIs for developers
 - [Treasury Prime](https://www.treasuryprime.com/) [B2B, [@treasuryprime](https://twitter.com/treasuryprime), [LinkedIn](https://www.linkedin.com/company/treasuryprime/), [Careers](https://www.treasuryprime.com/careers#open-positions)] - Treasury Prime powers innovation through embedded finance for growing fintechs and enterprises using its cutting edge API and growing network of partner banks.
 - [Twisp](https://www.twisp.com/) [B2B, [@twispdb](https://twitter.com/twispdb), [LinkedIn](https://www.linkedin.com/company/twispdb/)] - Twisp’s cloud-based financial data infrastructure helps engineering teams confidently build, compose, and scale core ledgers.
+- [Unit](https://www.unit.co/) [B2B, [@unit*co*](https://twitter.com/unit_co_), [LinkedIn](https://www.linkedin.com/company/unit-finance/), [Careers](https://www.unit.co/careers#jobs)] - Unit helps software companies build financial features into their products: accounts, cards, payments & lending.
 
 ## Capital Markets
 
@@ -124,6 +125,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 ## RegTech
 
 - [Alloy](https://www.alloy.com/) [B2B, [@usealloy](https://twitter.com/usealloy), [LinkedIn](https://www.linkedin.com/company/alloy-apis/), [Careers](https://www.alloy.com/about/jobs#openings)] - Alloy is your command center for identity. Our platform connects you to 120+ data sources to cover your compliance and fraud-fighting needs.
+- [fraud.net](https://fraud.net/) [B2B, [@Fraud_net](https://twitter.com/Fraud_net), [LinkedIn](https://www.linkedin.com/company/fraud-net/), [Careers](https://fraud.net/jobs/)] - Fraud.net is an award-winning API-based, end-to-end fraud and risk management ecosystem.
 
 ## Wealth Management
 
