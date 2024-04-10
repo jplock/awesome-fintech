@@ -140,7 +140,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
 - [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
 - [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
--[PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
+- [PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
 
 ## Business Financial Management
 
