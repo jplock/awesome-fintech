@@ -137,6 +137,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [GetFierce](https://www.getfierce.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/getfierce/about/)] - Unlock what is possible with Fierce by your side.
 - [NDVR](https://ndvr.com) [B2C, [@NDVRWealth](https://twitter.com/NDVRWealth), [LinkedIn](https://www.linkedin.com/company/ndvr-inc/), [Careers](https://app.ndvr.com/careers)] - Your wealth, optimized.
 - [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
+- [KeepRule](https://keeprule.com/) [B2C] - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
 
 ## Personal Financial Management
 
