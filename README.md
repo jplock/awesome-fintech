@@ -45,6 +45,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Strikes](https://www.trystrikes.com/) [B2C, [@StrikesApp](https://twitter.com/StrikesApp), [LinkedIn](https://www.linkedin.com/company/strikesapp/)] - Make well-informed options trading decisions & avoid mistakes
 - [Trumid](https://www.trumid.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/trumid/), [Careers](https://www.trumid.com/careers/)] - Fixed income trading platform
 - [Yieldstreet](https://www.yieldstreet.com/) [B2C, [@Yieldstreet](https://twitter.com/Yieldstreet), [LinkedIn](https://www.linkedin.com/company/yieldstreet-inc/), [Careers](https://jobs.lever.co/yieldstreet)] - Yieldstreet provides individuals with alternative investments in asset classes like art, real estate, legal and finance traditionally reserved for institutions.
+- [InvicTrade](https://invictrade.com) [B2C] - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 
 ## Digital Assets & Blockchain
 
