@@ -144,6 +144,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [digit](https://digit.co/) [B2C, [@hellodigit](https://twitter.com/hellodigit), [LinkedIn](https://www.linkedin.com/company/digit-co/), [Careers](https://digit.co/careers)] - Healthy money, happy mind. Digit helps you do smart things with your money every day. Bank, budget, save and invest, effortlessly.
 - [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
 - [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
+- [SpendNode](https://www.spendnode.io/) [B2C] - Independent crypto card reviews, issuer coverage, country guides, and market updates.
 - [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
 - [PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
 
