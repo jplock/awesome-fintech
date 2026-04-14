@@ -154,6 +154,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 - [Brex](https://www.brex.com/) [B2B, [@brexHQ](https://twitter.com/brexHQ), [LinkedIn](https://www.linkedin.com/company/brexhq/), [Careers](https://www.brex.com/careers/)] - We’re reimagining financial systems so every growing company can realize their full potential.
 - [Carta](https://carta.com/) [B2B, [@cartainc](https://twitter.com/cartainc), [LinkedIn](https://www.linkedin.com/company/carta--/), [Careers](https://boards.greenhouse.io/carta)] - We believe in the power of equity. We help companies, investors, and employees manage their equity—and help everyone learn how it works.
+- [culta.ai](https://culta.ai/) [B2B] - Multi-entity financial management platform for startups with budgeting, burn rate tracking, and cash flow forecasting.
 - [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
 - [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
 
