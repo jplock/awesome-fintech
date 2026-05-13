@@ -156,6 +156,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Carta](https://carta.com/) [B2B, [@cartainc](https://twitter.com/cartainc), [LinkedIn](https://www.linkedin.com/company/carta--/), [Careers](https://boards.greenhouse.io/carta)] - We believe in the power of equity. We help companies, investors, and employees manage their equity—and help everyone learn how it works.
 - [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
 - [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
+- [ReceiptClaimer](https://receiptclaimer.com.au) [B2B/B2C] - AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Automate expense tracking with OCR and maximize tax returns.
 
 # License
 
