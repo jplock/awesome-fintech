@@ -72,6 +72,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [QuickNode](https://www.quicknode.com/) [B2B, [@QuickNode](https://twitter.com/quicknode), [LinkedIn](https://www.linkedin.com/company/quicknode/), [Careers](https://jobs.lever.co/quicknode)] - Powering Web3 with industry-leading blockchain infrastructure
 - [Strike](https://strike.me/) [B2C, [@strike](https://twitter.com/strike), [LinkedIn](https://www.linkedin.com/company/joinstrike/), [Careers](https://strike.me/en/jobs)] - building a more connected financial world
 - [Worldcoin](https://worldcoin.org/) [B2C, [@worldcoin](https://twitter.com/worldcoin), [LinkedIn](https://www.linkedin.com/company/worldcoinfoundation/), [Careers](https://worldcoin.org/careers)] - Accelerating the transition towards a more inclusive and prosperous global economy.
+- [Athenum](https://athenum.xyz) [B2C] - Crypto and derivatives analytics terminal aggregating order flow, open interest, funding rates, liquidations, and order book liquidity across 14 exchanges on one clock.
 
 ## Insurance
 
