@@ -80,6 +80,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Ethos](https://www.ethoslife.com/) [B2C, [@getEthosLife](https://twitter.com/getEthosLife), [LinkedIn](https://www.linkedin.com/company/ethoslife/), [Careers](https://www.ethoslife.com/careers/#careers)] - Ethos helps make getting life insurance faster and easier with an online application and cutting-edge data science.
 - [Hippo](https://www.hippo.com/) [B2C, [@hippo_insurance](https://twitter.com/hippo_insurance), [LinkedIn](https://www.linkedin.com/company/hippo-insurance/), [Careers](https://www.hippo.com/careers)] - Hippo is a whole new approach to homeowners insurance—simpler process, smarter coverage, up to 25% savings.
 - [Lemonade](https://www.lemonade.com/) [B2C, [@Lemonade_Inc](https://twitter.com/Lemonade_Inc), [LinkedIn](https://www.linkedin.com/company/lemonade-inc-/), [Careers](https://makers.lemonade.com/)] - Digital insurance built on social impact – for your stuff, home, family, pet, and car.
+- [Superhighway](https://superhighway.walls.sh/guides/insurtech-research-agent) [B2B] - Build a Python agent that researches insurance markets, carrier landscapes, underwriting trends, and InsurTech innovation using live web search. Pay-per-call with USDC via x402.
 - [Tint](https://www.tint.ai/) [B2B, [LinkedIn](https://www.linkedin.com/company/heytint/), [Careers](https://boards.greenhouse.io/tintai)] - Tint empowers tech platforms to offer intrinsic embedded insurance - protecting their users from inherent risks.
 
 ## Lending & Credit
