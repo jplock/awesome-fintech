@@ -164,6 +164,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
 - [PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
 - [IndepAI](https://indepai.app/) [B2C] - Free FIRE calculators (Coast FIRE, Barista FIRE, FI score) and cost-of-living data for 11,400+ cities, built for digital nomads planning geo-arbitrage.
+- [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 139 cards by real fees across regions.
 
 ## Business Financial Management
 
