@@ -111,6 +111,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Payments & Billing
 
+- [Base Pay Desk](https://oskarasi.github.io/base-pay-desk-site/) [B2SMB, [GitHub](https://github.com/oskarasi/base-pay-desk-site)] - Independent ETH-on-Base checkout/link builder for creators, agencies, and service sellers; creates shareable payment links with visible fee math and no custody.
 - [BillGO](https://www.billgo.com/) [B2B, [@BillGOPayments](https://twitter.com/BillGOPayments), [LinkedIn](https://www.linkedin.com/company/billgopayments/), [Careers](https://www.billgo.com/join-us)] - BillGO facilitates a better financial future for everyone by combining the power of speed, choice and intelligence.
 - [Bolt](https://www.bolt.com/) [B2SMB, [@bolt](https://twitter.com/bolt), [LinkedIn](https://www.linkedin.com/company/bolt-com/), [Careers](https://www.bolt.com/careers/)] - We’re democratizing commerce
 - [Bread Financial](https://www.breadfinancial.com/) [B2B, [@BreadFinancial](https://twitter.com/BreadFinancial), [LinkedIn](https://www.linkedin.com/company/bread-financial/), [Careers](https://www.breadfinancial.com/en/who-we-are/careers.html)] - Bread Financial provides simple, personalized payment, lending and saving solutions
