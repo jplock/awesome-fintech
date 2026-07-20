@@ -52,6 +52,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 - [Tapetide](https://tapetide.com) [B2C] - AI-first stock research platform for Indian markets, covering all 8,200+ NSE and BSE stocks with quotes, financials, a 326-ratio screener, FII/DII institutional flows, and an MCP server for AI agents.
 - [Insider Alerts](https://insideralerts.io/) [B2C] - SEC Form 4 insider trading alerts, watchlists, and searchable insider buying and selling activity for investors.
+- [PolyMind](https://polyminds.netlify.app/) [B2C] - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 
 ## Digital Assets & Blockchain
 
