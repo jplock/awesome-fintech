@@ -128,6 +128,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Gravy](https://www.gravysolutions.io/) [B2B, [@GravySolutions](https://twitter.com/GravySolutions), [LinkedIn](https://www.linkedin.com/company/gravysolutions/), [Careers](https://www.gravysolutions.io/careers)] - We're a done-for-you revenue recovery service! If you have recurring subscriptions, you're losing money due to failed payments! We can fix that!
 - [Lithic](https://lithic.com/) [B2B, [@lithic](https://twitter.com/lithic), [LinkedIn](https://www.linkedin.com/company/lithic/), [Careers](https://boards.greenhouse.io/lithic)] - Developer tools for modern card issuing
 - [Marqeta](https://www.marqeta.com/) [B2B, [@Marqeta](https://twitter.com/Marqeta), [LinkedIn](https://www.linkedin.com/company/marqeta/), [Careers](https://www.marqeta.com/company/careers/all-jobs)] - You see a card. We see endless possibilities.™
+- [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
 - [Moov](https://moov.io) [B2B, [@moov](https://twitter.com/moov), [LinkedIn](https://www.linkedin.com/company/moov-io/), [Careers](https://moov.io/careers/#open-roles)] - Moov makes it easy for developers to accept, store, and disburse money.
 - [MONEI](https://monei.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/monei-digital-payments/)] - European Payment Institution (Banco de España #6911) providing a developer-first payment gateway with REST and GraphQL APIs. Supports cards, Bizum, PayPal, Apple Pay, Google Pay, and BNPL across Spain and Europe. Serverless architecture, MCP Server for AI-powered payment operations, and ECB Digital Euro pilot participant.
 - [paas.build](https://paas.build/) [B2SMB, [LinkedIn](https://www.linkedin.com/company/unipaas/)] - Instant merchant account for AI-era builders, by UniPaaS (UNIPaaS Financial Services Ltd, FCA-authorised UK Payment Institution No. 929994). Individuals and sole traders in the UK/EU/US go live the same day via progressive KYB. Agent-native: MCP server (npx @paasbuild/mcp / paas.build/mcp).
@@ -155,6 +156,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
 - [KeepRule](https://keeprule.com/) [B2C] - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
 - [Cost Seg Smart](https://costsegsmart.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/113022528/)] - Automated cost segregation studies that accelerate real estate depreciation for tax savings. Engineering-based, IRS-defensible reports in under 1 hour.
+
 ## Personal Financial Management
 
 - [BankBridge](https://bankbridge.money/) [B2C, [@bankbridgemoney](https://twitter.com/bankbridgemoney)] - Read-only bank access for your AI agent. A hosted MCP server that connects Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ other AI hosts to your real bank accounts, transactions, and investment holdings — ask any question about your money, in plain English.
@@ -180,5 +182,3 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-- [MeterCall](https://metercall.ai/?v=f&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
