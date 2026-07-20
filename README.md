@@ -149,7 +149,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [NDVR](https://ndvr.com) [B2C, [@NDVRWealth](https://twitter.com/NDVRWealth), [LinkedIn](https://www.linkedin.com/company/ndvr-inc/), [Careers](https://app.ndvr.com/careers)] - Your wealth, optimized.
 - [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
 - [KeepRule](https://keeprule.com/) [B2C] - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
-
+- [Cost Seg Smart](https://costsegsmart.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/113022528/)] - Automated cost segregation studies that accelerate real estate depreciation for tax savings. Engineering-based, IRS-defensible reports in under 1 hour.
 ## Personal Financial Management
 
 - [BankBridge](https://bankbridge.money/) [B2C, [@bankbridgemoney](https://twitter.com/bankbridgemoney)] - Read-only bank access for your AI agent. A hosted MCP server that connects Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ other AI hosts to your real bank accounts, transactions, and investment holdings — ask any question about your money, in plain English.
