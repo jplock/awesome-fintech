@@ -50,6 +50,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Yieldstreet](https://www.yieldstreet.com/) [B2C, [@Yieldstreet](https://twitter.com/Yieldstreet), [LinkedIn](https://www.linkedin.com/company/yieldstreet-inc/), [Careers](https://jobs.lever.co/yieldstreet)] - Yieldstreet provides individuals with alternative investments in asset classes like art, real estate, legal and finance traditionally reserved for institutions.
 - [InvicTrade](https://invictrade.com) [B2C] - AI-powered trading signals with 74% historical win rate, combining strategies from legendary investors using multi-model AI intelligence.
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
+- [Tapetide](https://tapetide.com) [B2C] - AI-first stock research platform for Indian markets, covering all 8,200+ NSE and BSE stocks with quotes, financials, a 326-ratio screener, FII/DII institutional flows, and an MCP server for AI agents.
 
 ## Digital Assets & Blockchain
 
