@@ -170,6 +170,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [IndepAI](https://indepai.app/) [B2C] - Free FIRE calculators (Coast FIRE, Barista FIRE, FI score) and cost-of-living data for 11,400+ cities, built for digital nomads planning geo-arbitrage.
 - [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 139 cards by real fees across regions.
 - [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
+- [Planomy](https://planomy.net/) [B2C] - Free, local-first US retirement planner — year-by-year federal and state tax, Social Security, Medicare/IRMAA, RMDs, Roth conversions and Monte Carlo, plus 37 calculators and a source-cited 2026 tax dataset published as JSON. The whole planner is free with no account or card; Plus adds synced plans and bank sync.
 
 ## Business Financial Management
 
