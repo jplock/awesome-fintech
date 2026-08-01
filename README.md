@@ -36,6 +36,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [13F Insight](https://13finsight.com/) [B2C] - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
 - [Adanos](https://adanos.org/) [B2B] - Market sentiment API for stocks and crypto using Reddit, X / FinTwit, news, and Polymarket signals.
 - [Alpaca](https://alpaca.markets/) [B2B, [@alpacahq](https://twitter.com/alpacahq), [LinkedIn](https://www.linkedin.com/company/alpacadb-inc-/), [Careers](https://alpaca.markets/hiring#alpaca-hiring)] - $0 commission API stock & crypto brokerage
+- [FN2](https://fn2.ai) [B2C] - AI market analyst for investors: personalized daily briefings, deep stock research, and scheduled agents that monitor watchlists and earnings.
 - [Apex Clearing](https://www.apexclearing.com/) [B2B, [@apexfintech](https://twitter.com/apexfintech), [LinkedIn](https://www.linkedin.com/company/apex-fintech/), [Careers](https://careers.peak6.com/all-openings#/)] - Clearing & custody APIs
 - [Cadre](https://cadre.com/) [B2C, [@cadrere](https://twitter.com/cadrere), [LinkedIn](https://www.linkedin.com/company/cadrere/), [Careers](https://boards.greenhouse.io/cadre) - Providing superior access and insight to the universe of alternative investments.
 - [CalcGuard Technologies](https://www.calcguard.com/) [B2B, [@CalcGuard](https://twitter.com/CalcGuard), [LinkedIn](https://www.linkedin.com/company/calcguard-technologies/)] - An unconflicted data & calcuation platform
