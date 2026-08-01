@@ -157,6 +157,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
 - [KeepRule](https://keeprule.com/) [B2C] - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio.
 - [Cost Seg Smart](https://costsegsmart.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/113022528/)] - Automated cost segregation studies that accelerate real estate depreciation for tax savings. Engineering-based, IRS-defensible reports in under 1 hour.
+- [Quantral](https://quantral.com/) [B2C, [@quantral](https://x.com/quantral), [LinkedIn](https://www.linkedin.com/company/quantral/)] - Investment ideas from finance X, Reddit, and news: every stock scored 0-100, every voice graded on its real track record.
 
 ## Personal Financial Management
 
