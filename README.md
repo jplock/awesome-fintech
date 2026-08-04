@@ -31,6 +31,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Method](https://methodfi.com/) [B2B, [@methodfinancial](https://x.com/methodfinancial), [LinkedIn](https://www.linkedin.com/company/methodfi/), [Careers](https://methodfi.com/company/careers)] - Financial connectivity API giving lenders and fintechs real-time data and payment access to consumers' credit and liability accounts across 15,000+ US financial institutions.
 
 ## Capital Markets
+ - [Pineify](https://pineify.app/) [B2C] - AI-assisted strategy-development and market-research toolkit for TradingView users, with Pine Script coding, visual rule building, screening, optimization, and backtest analysis.
 
 - [13F Insight](https://13finsight.com/) [B2C] - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
 - [Adanos](https://adanos.org/) [B2B] - Market sentiment API for stocks and crypto using Reddit, X / FinTwit, news, and Polymarket signals.
