@@ -53,6 +53,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [PolyMind](https://polyminds.netlify.app/) [B2C] - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 - [QuantLink](https://www.quantlink.ai) [B2C] - AI-powered US-equity research terminal with a stock screener, AI deep-research on SEC filings, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking. Free tier available.
 - [SnapTrade](https://snaptrade.com/) [B2B2C, [LinkedIn](https://www.linkedin.com/company/snaptrade/)] - Developer API for connecting to retail brokerage accounts and crypto exchanges to retrieve normalized holdings and transaction data and place trades on users' behalf.
+- [Eulerpool](https://eulerpool.com/financial-data-api) [B2B/B2C] - Financial data API with 400+ endpoints covering global equities and fundamentals, ETFs, insider trades, 13F, macro series from FRED/ECB/IMF/World Bank/OECD/BIS, crypto, FX and commodities, with SDKs in eight languages and an MCP server for AI agents. Free tier available.
 
 ## Digital Assets & Blockchain
 
