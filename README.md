@@ -179,6 +179,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [IndepAI](https://indepai.app/) [B2C] - Free FIRE calculators (Coast FIRE, Barista FIRE, FI score) and cost-of-living data for 11,400+ cities, built for digital nomads planning geo-arbitrage.
 - [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 139 cards by real fees across regions.
 - [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
+- [UseCOS](https://usecos.app/) [B2C, [LinkedIn](https://www.linkedin.com/company/usecos/)] - Privacy-first financial and consumer decision platform with client-side calculators for Canadian mortgage renewals, auto financing, provincial sales tax (GST/HST), and tenant dispute workflows.
 
 ## Business Financial Management
 
