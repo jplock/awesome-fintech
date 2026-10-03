@@ -32,6 +32,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Capital Markets
 
+- [iPulse AI](https://ipulseai.com/) [B2C, B2B, [@FutureEdgeGroup](https://x.com/FutureEdgeGroup), [LinkedIn](https://www.linkedin.com/company/future-edge-group/)] - Open Agentic Investment Research Platform by Future Edge Group, combining ranked market discovery, asset forecasts and independent AI advisor reports with inspectable evidence, risks and assumptions.
 - [13F Insight](https://13finsight.com/) [B2C] - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
 - [Adanos](https://adanos.org/) [B2B] - Market sentiment API for stocks and crypto using Reddit, X / FinTwit, news, and Polymarket signals.
 - [Alpaca](https://alpaca.markets/) [B2B, [@alpacahq](https://twitter.com/alpacahq), [LinkedIn](https://www.linkedin.com/company/alpacadb-inc-/), [Careers](https://alpaca.markets/hiring#alpaca-hiring)] - $0 commission API stock & crypto brokerage
