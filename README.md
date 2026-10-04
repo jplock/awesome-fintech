@@ -41,8 +41,9 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [CalcGuard Technologies](https://www.calcguard.com/) [B2B, [@CalcGuard](https://twitter.com/CalcGuard), [LinkedIn](https://www.linkedin.com/company/calcguard-technologies/)] - An unconflicted data & calcuation platform
 - [Copper](https://www.getcopper.com/) [B2C, [@CopperBanking](https://twitter.com/CopperBanking), [LinkedIn](https://www.linkedin.com/company/getcopper/), [Careers](https://www.getcopper.com/careers)] - Banking and Investing Built For Families
 - [DriveWealth](https://www.drivewealth.com/) [B2B, [@DriveWealth](https://twitter.com/DriveWealth), [LinkedIn](https://www.linkedin.com/company/drivewealth/), [Careers](https://www.drivewealth.com/company/careers/)] - Our API-driven brokerage infrastructure can power fractional investing experiences for anyone
+- [Eulerpool](https://eulerpool.com/financial-data-api) [B2B/B2C] - Financial data API with 400+ endpoints covering global equities and fundamentals, ETFs, insider trades, 13F, macro series from FRED/ECB/IMF/World Bank/OECD/BIS, crypto, FX and commodities, with SDKs in eight languages and an MCP server for AI agents. Free tier available.
 - [FilingFirehose](https://filingfirehose.com/) [B2B/B2C] - SEC EDGAR JSON API and free per-ticker forensic risk score (cyber, dilution, restatement, officer departure, bankruptcy signals) from 8-K, 10-K, 10-Q, S-3 filings.
-- [Finatic](https://finatic.dev/) B2B [Linkedin](https://www.linkedin.com/company/finatic-dev) - Plaid for the age of AI, supporting auto-sync, trading and execution through brokers, exchanges and more
+- [Finatic](https://finatic.dev/) [B2B, [LinkedIn](https://www.linkedin.com/company/finatic-dev)] - Plaid for the age of AI, supporting auto-sync, trading and execution through brokers, exchanges and more
 - [Passthrough](https://passthrough.com/) [B2B, [@PassthroughInc](https://x.com/PassthroughInc), [LinkedIn](https://www.linkedin.com/company/passthroughinc/), [Careers](https://passthrough.com/careers)] - Automate fund workflows from start to finish.
 - [Public.com](https://public.com/) [B2C, [@public](https://twitter.com/public), [LinkedIn](https://www.linkedin.com/company/publichello/), [Careers](https://public.com/careers)] - Invest in stocks, ETFs, and crypto.
 - [Trumid](https://www.trumid.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/trumid/), [Careers](https://www.trumid.com/careers/)] - Fixed income trading platform
@@ -54,7 +55,6 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [PolyMind](https://polyminds.netlify.app/) [B2C] - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
 - [QuantLink](https://www.quantlink.ai) [B2C] - AI-powered US-equity research terminal with a stock screener, AI deep-research on SEC filings, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking. Free tier available.
 - [SnapTrade](https://snaptrade.com/) [B2B2C, [LinkedIn](https://www.linkedin.com/company/snaptrade/)] - Developer API for connecting to retail brokerage accounts and crypto exchanges to retrieve normalized holdings and transaction data and place trades on users' behalf.
-- [Eulerpool](https://eulerpool.com/financial-data-api) [B2B/B2C] - Financial data API with 400+ endpoints covering global equities and fundamentals, ETFs, insider trades, 13F, macro series from FRED/ECB/IMF/World Bank/OECD/BIS, crypto, FX and commodities, with SDKs in eight languages and an MCP server for AI agents. Free tier available.
 
 ## Digital Assets & Blockchain
 
@@ -183,7 +183,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [IndepAI](https://indepai.app/) [B2C] - Free FIRE calculators (Coast FIRE, Barista FIRE, FI score) and cost-of-living data for 11,400+ cities, built for digital nomads planning geo-arbitrage.
 - [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 140+ cards by real fees across regions, with an open CC BY dataset.
 - [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
-- [Beyond Payday](https://beyondpayday.com/) [B2C, [@beyondpaydayapp](https://x.com/beyondpaydayapp), [LinkedIn](https://www.linkedin.com/company/beyondpayday/)] - Household money and retirement planner that never connects to your bank: track bills and balances instead of transactions, see what's left each month and your net worth, and project retirement year by year with Social Security. Free plan; also works inside ChatGPT and Claude.
+- [Beyond Payday](https://beyondpayday.com/) [B2C, [@beyondpaydayapp](https://x.com/beyondpaydayapp), [LinkedIn](https://www.linkedin.com/company/beyondpayday/)] - Household money and retirement planner that works without connecting a bank account, tracking bills, balances and net worth and projecting retirement year by year.
 
 ## Business Financial Management
 
