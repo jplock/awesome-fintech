@@ -187,6 +187,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [OpenRegistry](https://openregistry.sophymarine.com) - Free remote MCP server proxying 27 national company registries directly (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, plus 21 more). Real-time queries; no aggregator middle layer.
 - [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
 - [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
+- [Rubrol](https://github.com/maxcomperatore/rubrol) [B2B] - Sub-millisecond Typst-based document engine and sidecar for transactional receipt generation, hybrid PDF/A-3b invoices, and e-invoicing compliance.
 - [ReceiptClaimer](https://receiptclaimer.com.au) [B2B/B2C] - AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Automate expense tracking with OCR and maximize tax returns.
 
 # License
