@@ -116,7 +116,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 ## Payments & Billing
 
 - [BillGO](https://www.billgo.com/) [B2B, [@BillGOPayments](https://twitter.com/BillGOPayments), [LinkedIn](https://www.linkedin.com/company/billgopayments/), [Careers](https://www.billgo.com/join-us)] - BillGO facilitates a better financial future for everyone by combining the power of speed, choice and intelligence.
-- [Bolt](https://www.bolt.com/) [B2SMB, [@bolt](https://twitter.com/bolt), [LinkedIn](https://www.linkedin.com/company/bolt-com/), [Careers](https://www.bolt.com/careers/)] - We’re democratizing commerce
+- [Bolt](https://www.boltapp.com/) [B2SMB, [@bolt](https://twitter.com/bolt), [LinkedIn](https://www.linkedin.com/company/bolt-com/), [Careers](https://www.boltapp.com/careers/)] - We’re democratizing commerce
 - [Bread Financial](https://www.breadfinancial.com/) [B2B, [@BreadFinancial](https://twitter.com/BreadFinancial), [LinkedIn](https://www.linkedin.com/company/bread-financial/), [Careers](https://www.breadfinancial.com/en/who-we-are/careers.html)] - Bread Financial provides simple, personalized payment, lending and saving solutions
 - [Circle](https://www.circle.com/) [B2B, [@circlepay](https://twitter.com/circlepay), [LinkedIn](https://www.linkedin.com/company/circle-internet-financial/), [Careers](https://www.circle.com/en/careers)] - Circle helps businesses and developers harness the power of stablecoins for payments and internet commerce worldwide.
 - [Dwolla](https://www.dwolla.com/) [B2B, [@dwolla](https://twitter.com/dwolla), [LinkedIn](https://www.linkedin.com/company/dwolla/), [Careers](https://www.dwolla.com/careers/#jobs)] - Powering innovations with sophisticated account-to-account payment solutions.
