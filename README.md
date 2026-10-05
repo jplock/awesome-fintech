@@ -158,6 +158,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 ## Personal Financial Management
 
 - [BankBridge](https://bankbridge.money/) [B2C, [@bankbridgemoney](https://twitter.com/bankbridgemoney)] - Read-only bank access for your AI agent. A hosted MCP server that connects Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ other AI hosts to your real bank accounts, transactions, and investment holdings — ask any question about your money, in plain English.
+- [Synci](https://synci.io/) [B2C] - Read-only financial data connectivity for bank, brokerage, and crypto accounts, with sync to AI assistants and personal-finance apps through MCP, SimpleFIN, and other destinations.
 - [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
 - [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
 - [SpendNode](https://www.spendnode.io/) [B2C] - Independent crypto card reviews, issuer coverage, country guides, and market updates.
