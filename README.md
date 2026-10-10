@@ -167,6 +167,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 140+ cards by real fees across regions, with an open CC BY dataset.
 - [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
 - [Beyond Payday](https://beyondpayday.com/) [B2C, [@beyondpaydayapp](https://x.com/beyondpaydayapp), [LinkedIn](https://www.linkedin.com/company/beyondpayday/)] - Household money and retirement planner that works without connecting a bank account, tracking bills, balances and net worth and projecting retirement year by year.
+- [obrotomierz](https://obrotomierz.pl/) [B2C, [@obrotomierz_pl](https://x.com/obrotomierz_pl), [LinkedIn](https://www.linkedin.com/company/obrotomierz/)] - Polish guide to bank promotions, deposits and savings accounts that reads conditions and deadlines from each bank's terms, with a companion app for iOS and Android.
 
 ## Business Financial Management
 
