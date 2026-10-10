@@ -110,6 +110,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Self](https://www.self.inc/) [B2C, [@SelfCreditApp](https://twitter.com/SelfCreditApp), [LinkedIn](https://www.linkedin.com/company/self-financial/), [Careers](https://www.self.inc/careers#job-openings)] - Build credit. Build savings. Build dreams.
 - [Splash](https://www.splashfinancial.com/) [B2C, [@SplashFinancial](https://twitter.com/SplashFinancial), [LinkedIn](https://www.linkedin.com/company/splashfinancial/), [Careers](https://jobs.lever.co/splashfinancial)] - Our mission: Make people more powerful than their debt.
 - [Sunny Day Fund](https://sunnydayfund.com/) [B2SMB, [@sunnydayfund](https://twitter.com/sunnydayfund), [LinkedIn](https://www.linkedin.com/company/sunnydayfund/), [Careers](https://sunnydayfund.com/careers/)] - We enable companies to cultivate financial security and freedom in their workforce, starting with incentivized savings.
+- [UseCOS](https://usecos.app) [B2C, [GitHub](https://github.com/rivlosys/canadian-mortgage-math-engine), [LinkedIn](https://www.linkedin.com/company/usecos/)] - Privacy-first Canadian lending math and consumer mortgage renewal analyzer with open-source OSFI B-20 calculation engines.
 
 ## Payments & Billing
 
