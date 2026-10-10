@@ -111,6 +111,8 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Splash](https://www.splashfinancial.com/) [B2C, [@SplashFinancial](https://twitter.com/SplashFinancial), [LinkedIn](https://www.linkedin.com/company/splashfinancial/), [Careers](https://jobs.lever.co/splashfinancial)] - Our mission: Make people more powerful than their debt.
 - [Sunny Day Fund](https://sunnydayfund.com/) [B2SMB, [@sunnydayfund](https://twitter.com/sunnydayfund), [LinkedIn](https://www.linkedin.com/company/sunnydayfund/), [Careers](https://sunnydayfund.com/careers/)] - We enable companies to cultivate financial security and freedom in their workforce, starting with incentivized savings.
 
+- [YieldStack](https://yieldstack.ai/) - AI-powered commercial mortgage brokerage that matches U.S. real estate borrowers with third-party lenders and helps compare financing offers.
+
 ## Payments & Billing
 
 - [BillGO](https://www.billgo.com/) [B2B, [@BillGOPayments](https://twitter.com/BillGOPayments), [LinkedIn](https://www.linkedin.com/company/billgopayments/), [Careers](https://www.billgo.com/join-us)] - BillGO facilitates a better financial future for everyone by combining the power of speed, choice and intelligence.
