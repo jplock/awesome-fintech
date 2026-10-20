@@ -78,6 +78,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Strike](https://strike.me/) [B2C, [@strike](https://twitter.com/strike), [LinkedIn](https://www.linkedin.com/company/joinstrike/), [Careers](https://strike.me/en/jobs)] - building a more connected financial world
 - [Thrive](https://thrive.fi/) [B2C, [@ThriveFi](https://twitter.com/ThriveFi)] - CEX perpetuals trading journal and market intelligence for active traders. Read-only exchange sync; not a broker, bot, or wallet.
 - [Worldcoin](https://worldcoin.org/) [B2C, [@worldcoin](https://twitter.com/worldcoin), [LinkedIn](https://www.linkedin.com/company/worldcoinfoundation/), [Careers](https://worldcoin.org/careers)] - Accelerating the transition towards a more inclusive and prosperous global economy.
+- [Melbo](https://melbo.io/) [B2C, [@melbo_io](https://x.com/melbo_io), [LinkedIn](https://www.linkedin.com/company/melbo-io/)] - Prediction market app: trade Yes or No on real-world events. A share's price shows the market's probability.
 
 ## Insurance
 
