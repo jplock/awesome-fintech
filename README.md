@@ -154,6 +154,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Cost Seg Smart](https://costsegsmart.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/113022528/)] - Engineering-based cost segregation studies that accelerate real estate depreciation for tax savings. Most residential studies delivered the same day.
 - [Quantral](https://quantral.com/) [B2C, [@quantral](https://x.com/quantral), [LinkedIn](https://www.linkedin.com/company/quantral/)] - Investment ideas from finance X, Reddit, and news: every stock scored 0-100, every voice graded on its real track record.
 - [Brightside](https://www.gobrightside.com/) [B2B2C, [@Go_Brightside](https://x.com/Go_Brightside), [LinkedIn](https://www.linkedin.com/company/gobrightside/), [Careers](https://www.gobrightside.com/careers/)] - Employer-sponsored financial care benefit pairing human financial assistants with technology to help employees handle money emergencies, debt, credit, and savings.
+- [ClickDrag Finance](https://www.clickdragfinance.com/) [B2B/B2C, [LinkedIn](https://www.linkedin.com/company/clickdrag-finance)] - Cost segregation workpapers and studies for US rental and commercial property, and free guides on Opportunity Zones and cost segregation.
 
 ## Personal Financial Management
 
