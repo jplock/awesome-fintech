@@ -146,6 +146,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Sardine](https://www.sardine.ai/) [B2B, [@sardine](https://x.com/sardine), [LinkedIn](https://www.linkedin.com/company/sardineai/), [Careers](https://www.sardine.ai/careers)] - AI risk platform for fraud prevention, AML compliance, and credit underwriting, using device intelligence and behavior biometrics to detect financial crime in real time.
 - [SentiLink](https://www.sentilink.com/) [B2B, [@sentilink](https://x.com/sentilink), [LinkedIn](https://www.linkedin.com/company/sentilink/), [Careers](https://www.sentilink.com/careers)] - Fraud intelligence and identity verification provider that helps financial institutions detect synthetic identity fraud, identity theft, and first-party fraud at account application.
 - [Socure](https://www.socure.com/) [B2B, [@socureid](https://x.com/socureid), [LinkedIn](https://www.linkedin.com/company/socure/), [Careers](https://www.socure.com/company/careers)] - AI-powered digital identity verification, KYC/AML compliance, and fraud prevention platform used by banks, fintechs, and government agencies to onboard and screen users.
+- [Vérif Entreprise FR](https://api-production-24833.up.railway.app) [B2B] - French company verification (KYB) API by SIREN/SIRET: legal status, insolvency proceedings (BODACC), RGE certifications, LEI and asset-freeze screening, from official open data. Free preview; full checks paid per call (USDC via x402), no API key.
 
 ## Wealth Management
 
