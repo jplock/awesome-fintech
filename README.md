@@ -167,7 +167,7 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 140+ cards by real fees across regions, with an open CC BY dataset.
 - [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
 - [Beyond Payday](https://beyondpayday.com/) [B2C, [@beyondpaydayapp](https://x.com/beyondpaydayapp), [LinkedIn](https://www.linkedin.com/company/beyondpayday/)] - Household money and retirement planner that works without connecting a bank account, tracking bills, balances and net worth and projecting retirement year by year.
-- [Terminal Tax](https://terminal.tax/) [B2C] - Hosted MCP server that lets a person's AI assistant prepare a tax year 2025 US federal Form 1040, which the person reviews and signs on one page before it is e-filed with the IRS.
+- [Terminal Tax](https://terminal.tax/) [B2C] - Let ChatGPT or Claude file your taxes directly with the IRS. Tax software: your AI agent sends the return, you review and sign it, we e-file. $19.99, charged only if the IRS accepts it.
 
 ## Business Financial Management
 
