@@ -2,6 +2,20 @@
 
 Curated list of awesome Fintech startup companies. If you'd like to have a company added to the list, please submit a pull request.
 
+## What we list
+
+This list features operating fintech companies that build and run their own financial products or infrastructure, such as banks, brokerages, clearing firms, payment processors, lenders, insurers, and compliance or fraud providers. A good entry has a real team behind it, paying customers, and a track record beyond a launch announcement.
+
+We do not accept:
+
+- Free tools, calculators, converters, or templates
+- AI assistants, chatbots, agents, or MCP servers layered on top of third-party financial APIs or data
+- Resellers or repackagers of third-party market, filing, or company data
+- Directories, review sites, comparison sites, or affiliate sites
+- Side projects, newly launched products without traction, or self-promotional submissions that don't meet the bar above
+
+Pull requests that don't fit these guidelines will be closed.
+
 ## Banking
 
 - [Column](https://column.com/) [B2B, [@columnbank](https://twitter.com/columnbank), [LinkedIn](https://www.linkedin.com/company/column-bank/), [Careers](https://column.com/careers)] - A Nationally Chartered bank for developers. Writing code since '19, powering companies since '22.
@@ -11,7 +25,6 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Evolve Bank & Trust](https://www.getevolved.com/) [B2B, [@getevolved1925](https://twitter.com/getevolved1925), [LinkedIn](https://www.linkedin.com/company/evolve-bank-&-trust/), [Careers](https://recruiting2.ultipro.com/EVO1002EVBT/JobBoard/5aea2b6d-bf7e-4cfc-8295-2498ec46f8b9/)] - Best-in-class, technology-focused financial services organization.
 - [Found](https://found.com/) [B2B, [@foundforbiz](https://twitter.com/foundforbiz), [LinkedIn](https://www.linkedin.com/company/foundforbusiness/), [Careers](https://found.com/careers)] - Discover how simple business banking can be.
 - [Fragment](https://fragment.dev/) [B2B, [@fragmentdev](https://twitter.com/fragmentdev), [LinkedIn](https://www.linkedin.com/company/fragmentdev/), [Careers](https://jobs.ashbyhq.com/fragment)] - Build a bulletproof fintech startup without hassling with accounting, ops, or infrastructure.
-- [Jar](https://www.myjar.app/careers) [B2C, [@JarAppHQ](https://x.com/JarAppHQ), [LinkedIn] (https://www.linkedin.com/company/jarapp/)] - A gold savings app to save money in 24k gold daily, weekly or monthly.
 - [Jassby](https://jassby.com/) [B2C, [@jassby_inc](https://twitter.com/jassby_inc), [LinkedIn](https://www.linkedin.com/company/jassby-inc/)] - The Debit Card and Financial Literacy App for Families.
 - [Jiko](https://jiko.io/) [B2B, [@teamjiko](https://twitter.com/teamjiko), [LinkedIn](https://www.linkedin.com/company/myjiko/), [Careers](https://jiko.bamboohr.com/jobs/)] - Welcome to the future of money storage
 - [Kasasa](https://www.kasasa.com) [B2B, [@Kasasa](https://twitter.com/Kasasa), [LinkedIn](https://www.linkedin.com/company/kasasa/), [Careers](https://www.kasasa.com/careers)] - A bank account you can brag about.
@@ -31,25 +44,17 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 
 ## Capital Markets
 
-- [13F Insight](https://13finsight.com/) [B2C] - Track institutional investor 13F holdings with AI-powered analysis, position change alerts, and filing summaries.
-- [Adanos](https://adanos.org/) [B2B] - Market sentiment API for stocks and crypto using Reddit, X / FinTwit, news, and Polymarket signals.
 - [Alpaca](https://alpaca.markets/) [B2B, [@alpacahq](https://twitter.com/alpacahq), [LinkedIn](https://www.linkedin.com/company/alpacadb-inc-/), [Careers](https://alpaca.markets/hiring#alpaca-hiring)] - $0 commission API stock & crypto brokerage
-- [FN2](https://fn2.ai) [B2C] - AI market analyst for investors: personalized daily briefings, deep stock research, and scheduled agents that monitor watchlists and earnings.
 - [Apex Clearing](https://www.apexclearing.com/) [B2B, [@apexfintech](https://twitter.com/apexfintech), [LinkedIn](https://www.linkedin.com/company/apex-fintech/), [Careers](https://careers.peak6.com/all-openings#/)] - Clearing & custody APIs
 - [CalcGuard Technologies](https://www.calcguard.com/) [B2B, [@CalcGuard](https://twitter.com/CalcGuard), [LinkedIn](https://www.linkedin.com/company/calcguard-technologies/)] - An unconflicted data & calcuation platform
 - [Clear Street](https://clearstreet.io/) [B2B/B2C, [@ClearStreetLLC](https://twitter.com/ClearStreetLLC), [LinkedIn](https://www.linkedin.com/company/clear-street/), [Careers](https://clearstreet.io/careers)] - Cloud-native brokerage and clearing platform, with a trading API for US equities and options
 - [DriveWealth](https://www.drivewealth.com/) [B2B, [@DriveWealth](https://twitter.com/DriveWealth), [LinkedIn](https://www.linkedin.com/company/drivewealth/), [Careers](https://www.drivewealth.com/company/careers/)] - Our API-driven brokerage infrastructure can power fractional investing experiences for anyone
 - [Eulerpool](https://eulerpool.com/financial-data-api) [B2B/B2C] - Financial data API with 400+ endpoints covering global equities and fundamentals, ETFs, insider trades, 13F, macro series from FRED/ECB/IMF/World Bank/OECD/BIS, crypto, FX and commodities, with SDKs in eight languages and an MCP server for AI agents. Free tier available.
 - [FilingFirehose](https://filingfirehose.com/) [B2B/B2C] - SEC EDGAR JSON API and free per-ticker forensic risk score (cyber, dilution, restatement, officer departure, bankruptcy signals) from 8-K, 10-K, 10-Q, S-3 filings.
-- [Finatic](https://finatic.dev/) [B2B, [LinkedIn](https://www.linkedin.com/company/finatic-dev)] - Plaid for the age of AI, supporting auto-sync, trading and execution through brokers, exchanges and more
 - [Passthrough](https://passthrough.com/) [B2B, [@PassthroughInc](https://x.com/PassthroughInc), [LinkedIn](https://www.linkedin.com/company/passthroughinc/), [Careers](https://passthrough.com/careers)] - Automate fund workflows from start to finish.
 - [Public.com](https://public.com/) [B2C, [@public](https://twitter.com/public), [LinkedIn](https://www.linkedin.com/company/publichello/), [Careers](https://public.com/careers)] - Invest in stocks, ETFs, and crypto.
 - [Trumid](https://www.trumid.com/) [B2B, [LinkedIn](https://www.linkedin.com/company/trumid/), [Careers](https://www.trumid.com/careers/)] - Fixed income trading platform
 - [Willow Wealth](https://www.willowwealth.com/) [B2C, [@Yieldstreet](https://twitter.com/Yieldstreet), [LinkedIn](https://www.linkedin.com/company/yieldstreet-inc/), [Careers](https://jobs.lever.co/yieldstreet)] - Formerly Yieldstreet, Willow Wealth provides individuals with alternative investments in asset classes like art, real estate, legal and finance traditionally reserved for institutions.
-- [Tapetide](https://tapetide.com) [B2C] - AI-first stock research platform for Indian markets, covering all 8,200+ NSE and BSE stocks with quotes, financials, a 326-ratio screener, FII/DII institutional flows, and an MCP server for AI agents.
-- [Insider Alerts](https://insideralerts.io/) [B2C] - SEC Form 4 insider trading alerts, watchlists, and searchable insider buying and selling activity for investors.
-- [PolyMind](https://polyminds.netlify.app/) [B2C] - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, coordinated wallets, and 12 signal types. Free tier available.
-- [QuantLink](https://www.quantlink.ai) [B2C] - AI-powered US-equity research terminal with a stock screener, AI deep-research on SEC filings, institutional 13F holder analysis, insider (Form 4) activity, and congressional trade tracking. Free tier available.
 - [SnapTrade](https://snaptrade.com/) [B2B2C, [LinkedIn](https://www.linkedin.com/company/snaptrade/)] - Unified brokerage API for connecting apps to users' existing brokerage accounts to access normalized account data, balances, positions, orders, and transactions, with trading where supported.
 
 ## Digital Assets & Blockchain
@@ -62,7 +67,6 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Blockdaemon](https://blockdaemon.com/) [B2B, [@BlockdaemonHQ](https://twitter.com/BlockdaemonHQ), [LinkedIn](https://www.linkedin.com/company/blockdaemon/), [Careers](https://blockdaemon.com/about/careers/)] - Stake, Scale, and Deploy nodes: Blockdaemon provides institutional grade blockchain infrastructure supporting 50+ cutting edge blockchain networks
 - [Bloq](https://www.bloq.com/) [B2C, [@bloqinc](https://twitter.com/bloqinc), [LinkedIn](https://www.linkedin.com/company/bloq-inc/)] - Bloq delivers managed infrastructure for building on blockchain networks
 - [CoinPaprika](https://coinpaprika.com/) [B2B/B2C, [@coinpaprika](https://twitter.com/coinpaprika), [LinkedIn](https://www.linkedin.com/company/coinpaprika/)] - Free crypto market data API for 12,000+ coins and 350+ exchanges. Also [DexPaprika](https://dexpaprika.com/) for DEX data across 36 blockchains.
-- [Vibes-Coded Agent Tools](https://vibes-coded.com/for-agents) [B2B] - 95 hosted x402 pay-per-call agent-reliability endpoints (idempotency/replay guards, signed action receipts, agent-state checks, supply-chain trust, utilities). Pay-per-call USDC on Solana via Coinbase CDP; free first taste per endpoint. MCP: `npx -y @doteyeso-ops/mcp-server-vibes-coded`.
 - [Chartscout](https://chartscout.io/) [B2C, [@chartscout_io](https://twitter.com/chartscout_io), [LinkedIn](https://www.linkedin.com/company/balkantechsolutions/), [Careers](https://chartscout.io/)] - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds
 - [Coinbase](https://www.coinbase.com/) [B2C, [@coinbase](https://twitter.com/coinbase), [LinkedIn](https://www.linkedin.com/company/coinbase/), [Careers](https://www.coinbase.com/careers/positions)] - Crypto exchange
 - [Coinroutes](https://coinroutes.com/) [B2C, [@coinroutes](https://twitter.com/coinroutes), [LinkedIn](https://www.linkedin.com/company/coinroutes/), [Careers](https://coinroutes-inc.breezy.hr/)] - See the Market, Trade Smarter with our easy to use algorithmic platform that delivers the best performance commercially available.
@@ -102,11 +106,9 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Jetty](https://www.jetty.com/) [B2C, [@jetty](https://twitter.com/jetty), [LinkedIn](https://www.linkedin.com/company/jetty./), [Careers](https://www.jetty.com/careers#open-roles)] - Jetty is the financial services platform on a mission to make renting a home more affordable and flexible.
 - [Kafene](https://kafene.com/) [B2C, [@leasewithkafene](https://twitter.com/leasewithkafene), [LinkedIn](https://www.linkedin.com/company/kafene/), [Careers](https://kafene.com/careers)] - Empowering flexible ownership
 - [LendingFront](https://lendingfront.com) [B2B, [@lendingfront1](https://twitter.com/lendingfront1), [LinkedIn](https://www.linkedin.com/company/lendingfront-inc/)] - LendingFront is a white-labeled lending technology platform for banks, credit unions, alternative lenders, merchant processors, and CDFIs.
-- [Lokta](https://lokta.ai/) [B2B, [@loktaai](https://x.com/loktaai), [LinkedIn](https://www.linkedin.com/company/lokta-tech)] - AI-native lending stack that runs the loan book end to end — underwriting, pricing, disbursal, and collections — on a deterministic, audit-grade core with governed AI on top. Built by the team behind Apache Fineract.
 - [Peach](https://www.peachfinance.com/) [B2B, [@PeachFinance](https://twitter.com/PeachFinance), [LinkedIn](https://www.linkedin.com/company/peach-finance/), [Careers](https://www.peachfinance.com/careers#openings)] - Peach is a cloud-native lending technology platform that helps lenders quickly launch and confidently scale new lending products.
 - [Petal](https://www.petalcard.com/) [B2C, [@petal](https://twitter.com/petal), [LinkedIn](https://www.linkedin.com/company/petalcard/), [Careers](https://jobs.lever.co/petalcard)] - Designed to help build credit.
 - [Pipe](https://pipe.com/) [B2B, [@pipe](https://twitter.com/pipe), [LinkedIn](https://www.linkedin.com/company/pipetechnologies/), [Careers](https://pipe.com/careers#open-roles)] - Grow on your terms.
-- [Precisa](https://precisa.in/) [B2B, [LinkedIn](https://www.linkedin.com/company/precisa-financial-statement-analytics/), [Careers](https://precisa.in/careers/)] - AI-powered bank statement analysis platform for NBFCs and lenders. Automated fraud detection, credit risk assessment, and AML compliance across 850+ banks in 25 countries.
 - [Ribbon](https://www.ribbonhome.com/) [B2C, [@ribbonhome](https://twitter.com/ribbonhome), [LinkedIn](https://www.linkedin.com/company/ribbonhome/), [Careers](https://www.ribbonhome.com/careers)] - Making homeownership achievable.
 - [Self](https://www.self.inc/) [B2C, [@SelfCreditApp](https://twitter.com/SelfCreditApp), [LinkedIn](https://www.linkedin.com/company/self-financial/), [Careers](https://www.self.inc/careers#job-openings)] - Build credit. Build savings. Build dreams.
 - [Splash](https://www.splashfinancial.com/) [B2C, [@SplashFinancial](https://twitter.com/SplashFinancial), [LinkedIn](https://www.linkedin.com/company/splashfinancial/), [Careers](https://jobs.lever.co/splashfinancial)] - Our mission: Make people more powerful than their debt.
@@ -153,20 +155,14 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Betterment](https://www.betterment.com/) [B2C, [@Betterment](https://twitter.com/Betterment), [LinkedIn](https://www.linkedin.com/company/betterment/), [Careers](https://www.betterment.com/careers/current-openings)] - Grow your money with easy automated investing and goal-based saving.
 - [Vanilla](https://www.justvanilla.com/) [B2B, [@getvanilla](https://twitter.com/getvanilla), [LinkedIn](https://www.linkedin.com/company/justvanilla/), [Careers](https://www.justvanilla.com/careers)] - Build relationships that go deeper than money
 - [Cost Seg Smart](https://costsegsmart.com/) [B2C, [LinkedIn](https://www.linkedin.com/company/113022528/)] - Engineering-based cost segregation studies that accelerate real estate depreciation for tax savings. Most residential studies delivered the same day.
-- [Quantral](https://quantral.com/) [B2C, [@quantral](https://x.com/quantral), [LinkedIn](https://www.linkedin.com/company/quantral/)] - Investment ideas from finance X, Reddit, and news: every stock scored 0-100, every voice graded on its real track record.
 - [Brightside](https://www.gobrightside.com/) [B2B2C, [@Go_Brightside](https://x.com/Go_Brightside), [LinkedIn](https://www.linkedin.com/company/gobrightside/), [Careers](https://www.gobrightside.com/careers/)] - Employer-sponsored financial care benefit pairing human financial assistants with technology to help employees handle money emergencies, debt, credit, and savings.
 
 ## Personal Financial Management
 
-- [BankBridge](https://bankbridge.money/) [B2C, [@bankbridgemoney](https://twitter.com/bankbridgemoney)] - Read-only bank access for your AI agent. A hosted MCP server that connects Claude, ChatGPT, Cursor, Gemini, Codex, and 25+ other AI hosts to your real bank accounts, transactions, and investment holdings — ask any question about your money, in plain English.
 - [Nerdwallet](https://www.nerdwallet.com/) [B2C, [@NerdWallet](https://twitter.com/NerdWallet), [LinkedIn](https://www.linkedin.com/company/nerdwallet/), [Careers](https://www.nerdwallet.com/careers/teams)] - Unlock your dreams with objective financial advice, expert info & helpful tools.
 - [Plum](https://withplum.com/) [B2C, [@withplum](https://twitter.com/withplum), [LinkedIn](https://www.linkedin.com/company/plum-fintech/), [Careers](https://apply.workable.com/withplum/#jobs)] - Make your money go further with Plum
-- [SpendNode](https://www.spendnode.io/) [B2C] - Independent crypto card reviews, issuer coverage, country guides, and market updates.
 - [Smart Asset](https://smartasset.com/) [B2C, [@smartasset](https://twitter.com/smartasset), [LinkedIn](https://www.linkedin.com/company/smartasset-com/), [Careers](https://smartasset.com/careers)] - An award-winning NYC-based financial technology company that helps millions of people make smart financial decisions.
 - [PopaDex](https://popadex.com/) [B2C, [@popadex_finance](https://x.com/popadex_finance), [Linkedin](https://www.linkedin.com/company/popadex/)] - Your Net Worth, Tracked
-- [IndepAI](https://indepai.app/) [B2C] - Free FIRE calculators (Coast FIRE, Barista FIRE, FI score) and cost-of-living data for 11,400+ cities, built for digital nomads planning geo-arbitrage.
-- [Sweepbase](https://sweepbase.net/) [B2C] - Crypto debit and credit card aggregator comparing 140+ cards by real fees across regions, with an open CC BY dataset.
-- [Nutilz Discount Calculator](https://nutilz.com/discount-calculator) [B2C] - Free browser-based calculator for working out sale prices, discount percentages, and stacked/multiple discounts — no signup required.
 - [Beyond Payday](https://beyondpayday.com/) [B2C, [@beyondpaydayapp](https://x.com/beyondpaydayapp), [LinkedIn](https://www.linkedin.com/company/beyondpayday/)] - Household money and retirement planner that works without connecting a bank account, tracking bills, balances and net worth and projecting retirement year by year.
 
 ## Business Financial Management
@@ -174,7 +170,6 @@ Curated list of awesome Fintech startup companies. If you'd like to have a compa
 - [Aikount](https://aikount.com/) [B2SMB] - Accounting software for freelancers and small businesses in Spain: invoicing, expense capture from PDF receipts, bank reconciliation and quarterly VAT returns, with a public API and MCP server.
 - [Brex](https://www.brex.com/) [B2B, [@brexHQ](https://twitter.com/brexHQ), [LinkedIn](https://www.linkedin.com/company/brexhq/), [Careers](https://www.brex.com/careers/)] - We’re reimagining financial systems so every growing company can realize their full potential.
 - [Carta](https://carta.com/) [B2B, [@cartainc](https://twitter.com/cartainc), [LinkedIn](https://www.linkedin.com/company/carta--/), [Careers](https://boards.greenhouse.io/carta)] - We believe in the power of equity. We help companies, investors, and employees manage their equity—and help everyone learn how it works.
-- [OpenRegistry](https://openregistry.sophymarine.com) - Free remote MCP server proxying 27 national company registries directly (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere via BRIS, Spain BORME, Korea OpenDART, plus 21 more). Real-time queries; no aggregator middle layer.
 - [Pave](https://pave.dev/) [B2B, [@pavedev](https://twitter.com/pavedev), [LinkedIn](https://www.linkedin.com/company/pave-dev/), [Careers](https://jobs.lever.co/PaveFinancial/)] - Cashflow API to analyze risk and build financial experiences.
 - [Ramp](https://ramp.com/) [B2B, [@tryramp](https://twitter.com/tryramp), [LinkedIn](https://www.linkedin.com/company/ramp/), [Careers](https://ramp.com/careers)] - Ramp is the finance automation platform designed to save you time and money.
 - [ReceiptClaimer](https://receiptclaimer.com.au) [B2B/B2C] - AI-powered tax deduction tracking and audit reconciliation platform for Australian landlords and sole traders. Automate expense tracking with OCR and maximize tax returns.
