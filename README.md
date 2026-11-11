@@ -13,6 +13,7 @@ We do not accept:
 - Resellers or repackagers of third-party market, filing, or company data
 - Directories, review sites, comparison sites, or affiliate sites
 - Side projects, newly launched products without traction, or self-promotional submissions that don't meet the bar above
+- Entries or pull requests written by AI. Submissions should be written and opened by a human
 
 Pull requests that don't fit these guidelines will be closed.
 
